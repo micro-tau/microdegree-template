@@ -40,7 +40,7 @@ With this in place, you can bootstrap the microdegree:
 2. Install bootstrap dependencies.
     * `sudo apt install curl wget`
 3. Run the bootstrap script:
-    * `curl -sSL https://raw.githubusercontent.com/micro-tau/microdegree-template/master/create-microdregree.sh | sh`
+    * `curl -sSL https://raw.githubusercontent.com/micro-tau/microdegree-template/master/create-microdegree.sh | sh`
 
 Note that this script creates all the files needed to run the microdegree site. For more configuration options, see the official [microsite] documentation.
 
