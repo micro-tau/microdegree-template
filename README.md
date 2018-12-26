@@ -1,4 +1,4 @@
-# Microdegree Tempate
+# Microdegree Scaffold
 
 This repository contains scaffold-code to create micro-tau microdegrees. 
 
